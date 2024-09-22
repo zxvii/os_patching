@@ -1,4 +1,4 @@
-# os_patching
+# OS Patching Repository
 
 Overview
 
