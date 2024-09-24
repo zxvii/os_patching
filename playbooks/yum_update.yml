@@ -1,2 +1,5 @@
 ---
 - name: OS patching
+  hosts: all
+
+  tasks:
