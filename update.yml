@@ -1,0 +1,2 @@
+---
+- name: yum_update
