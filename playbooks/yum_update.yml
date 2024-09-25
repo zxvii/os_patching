@@ -1,3 +1,6 @@
 ---
 - name: OS patching
+  hosts: all
   tasks:
+    - name: run validate.sh script
+      
